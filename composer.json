@@ -50,5 +50,11 @@
         "sort-packages": true
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "repositories": {
+        "blade-ui-kit/blade-icons": {
+            "type": "git",
+            "url": "https://github.com/robsontenorio/blade-icons"
+        },
+    }
 }
